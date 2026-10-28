@@ -3,7 +3,7 @@
 > Refrune is a poker solitaire puzzle game for iPhone by independent developer İlker Cem Tanrıverdi. Players place 25 gems on a 5x5 board; every row, column and diagonal scores twice, as a number hand (pair to five of a kind, straight, full house) and as a color hand (flush, rainbow). Turkish name: "Refrune: Poker Bulmaca".
 
 Key facts:
-- Platform: iPhone (iOS). App Store: https://apps.apple.com/app/id6819502667
+- Platform: iPhone (iOS). App Store: https://apps.apple.com/us/app/refrune-gem-poker-puzzle/id6819502667 (released 2026-10-27)
 - Price: free download with levels 1-12, daily puzzle and all modes; one-time USD 3.99 purchase unlocks levels 13-30. No ads, no subscriptions.
 - Modes: 30-level campaign, daily puzzle (Game Center leaderboard), Duel, pass-and-play for 2-4 players, Expedition (8 floors with curses), free play.
 - Not gambling: poker hand rankings are scoring patterns only; no betting, currency or prizes.
